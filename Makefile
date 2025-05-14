@@ -12,7 +12,7 @@ build:
 	$(CC) $(FLAGS) $(FILENAME).c -o $(FILENAME).out
 
 run:
-	$(FILENAME).out
+	./$(FILENAME).out
 
 clean:
 	rm -fr $(FILENAME).out $(FILENAME).out.dSYM
