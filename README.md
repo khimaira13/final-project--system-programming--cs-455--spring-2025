@@ -33,7 +33,7 @@ As discussed in chapters 2 and 4, every process has an ID and a parent who also 
 
 Write a C program that uses `main`'s third argument to render the current user's `SHELL`, `PATH`, and `USERNAME` variables. What else can you view through the third argument to `main`?
 
-### Program 3
+### PROGRAM 3
 
 Recall that the `lseek()` system call allows for the read-write offset, or pointer, to be placed anywhere in a file. Using this `README.md` file as your file descriptor, replace `Program 3` in the heading of this section with its uppercase equivalent: `PROGRAM 3`.
 
